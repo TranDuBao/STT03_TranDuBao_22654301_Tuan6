@@ -1,0 +1,26 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.main {
+    text-align: center;
+    margin: 0 auto;
+    width: 1000px;
+    
+}
+table {
+    margin: 0 auto;
+    margin-top: 200px;
+    width: 500px;
+}
+
+th {
+    text-transform: uppercase;
+    color: pink;
+}
+
+th,td {
+    text-align: center;
+    border: 1px solid #000;
+}
